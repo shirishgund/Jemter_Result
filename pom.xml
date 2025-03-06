@@ -69,6 +69,7 @@
         </execution>
     </executions>
      <configuration>
+    <resultsFileFormat>jtl</resultsFileFormat> 
      </configuration>
 </plugin>	
 			
