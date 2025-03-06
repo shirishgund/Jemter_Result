@@ -86,6 +86,7 @@
                         <testFilesIncluded>
                             <jMeterTestFile>Collate_service.jmx</jMeterTestFile>                                                       
                         </testFilesIncluded>
+						 <resultsFileFormat>jtl</resultsFileFormat>
                     </configuration>
 </plugin>	
 			
